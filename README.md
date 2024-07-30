@@ -14,8 +14,4 @@ This project focuses on creating a panoramic mosaic by stitching together multip
 
 ### Mount Google Drive
 
-Ensure your images are stored in Google Drive. Mount the drive in your Colab environment:
-
-```python
-from google.colab import drive
-drive.mount('/content/drive/', force_remount=True)
+Ensure your images are stored in Google Drive. Mount the drive in your Colab environment
